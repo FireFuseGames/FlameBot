@@ -1,0 +1,2 @@
+# FlameBot
+Small Unofficial Bot
